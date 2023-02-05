@@ -35,7 +35,7 @@ function nextSequence(){
     playSound(randomChosenColor);
 }
     
-//we can write randomumber alone instead of functiona dn return.
+//we can write randomnumber alone instead of functiona dn return.
 //var randomNumber = Math.floor(Math.random() * 4);
 // nextSequence();
 
