@@ -104,11 +104,11 @@ function checkAnswer(currentLevel){
     }
 }
 
+//starting 
 function startOver(){
     started =true;
     gamePattern =[];
     level = 0;
-
 }
 
 
