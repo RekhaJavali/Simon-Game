@@ -1,0 +1,9 @@
+# Simon-Game
+It is basically memory game.
+
+Press any key to start.
+
+
+Once started, clik the button highlighted.
+on the next step, clik the previously clikced + current highlighted button.
+next sequence old 1, 2, new 3rd one..pattern continuous.
